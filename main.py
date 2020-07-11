@@ -1,6 +1,6 @@
 def random():
     import random
-    return random.randint(0,100)
+    return random.randint(0,1000)
 
 
 if __name__ == "__main__":
